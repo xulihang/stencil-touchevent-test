@@ -1,0 +1,12 @@
+:host {
+  display: block;
+}
+
+.touch-container {
+  display: flex;
+  width: 150px;
+  height: 50px;
+  background-color: aliceblue;
+  align-items: center;
+  justify-content: center;
+}
